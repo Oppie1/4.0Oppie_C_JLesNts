@@ -1,0 +1,12 @@
+﻿  main.c
+C:\Users\atind\OneDrive\Desktop\1_AdamCode\1_Oppie1\C\JustLessNotesFillInBlank\1.11CGettingInputWithScanf.JLNts\2.11CGettingInputWithScanf.JLNts\main.c(34,11): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+      C:\Users\atind\OneDrive\Desktop\1_AdamCode\1_Oppie1\C\JustLessNotesFillInBlank\1.11CGettingInputWithScanf.JLNts\2.11CGettingInputWithScanf.JLNts\main.c(34,11):
+      this argument is used by a conversion specifier
+  
+C:\Users\atind\OneDrive\Desktop\1_AdamCode\1_Oppie1\C\JustLessNotesFillInBlank\1.11CGettingInputWithScanf.JLNts\2.11CGettingInputWithScanf.JLNts\main.c(42,11): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+      C:\Users\atind\OneDrive\Desktop\1_AdamCode\1_Oppie1\C\JustLessNotesFillInBlank\1.11CGettingInputWithScanf.JLNts\2.11CGettingInputWithScanf.JLNts\main.c(42,11):
+      this argument is used by a conversion specifier
+  
+C:\Users\atind\OneDrive\Desktop\1_AdamCode\1_Oppie1\C\JustLessNotesFillInBlank\1.11CGettingInputWithScanf.JLNts\2.11CGettingInputWithScanf.JLNts\main.c(57,11): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+C:\Users\atind\OneDrive\Desktop\1_AdamCode\1_Oppie1\C\JustLessNotesFillInBlank\1.11CGettingInputWithScanf.JLNts\2.11CGettingInputWithScanf.JLNts\main.c(57,11): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'int *'
+  2.11CGettingInputWithScanf.JLNts.vcxproj -> C:\Users\atind\OneDrive\Desktop\1_AdamCode\1_Oppie1\C\JustLessNotesFillInBlank\1.11CGettingInputWithScanf.JLNts\x64\Debug\2.11CGettingInputWithScanf.JLNts.exe
